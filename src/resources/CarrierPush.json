@@ -1,0 +1,51 @@
+{
+  "tracking": [
+    {
+      "tracking_number": "0120132000000949",
+      "carrier_moniker": "jne",
+      "origin": {
+        "city": "JAKARTA PUSAT",
+        "country": null,
+        "state": null,
+        "zipcode": null
+      },
+      "dest": {
+        "city": "ABEPURA,JAYAPURA",
+        "country": null,
+        "state": null,
+        "zipcode": null
+      },
+      "estimated_delivery_date": null,
+      "edd_source": null,
+      "guaranteed_delivery_date": null,
+      "service_code": null,
+      "service_description": null,
+      "events": [
+        {
+          "carrier_moniker": "jne",
+          "date": "2020-01-10T16:03:00Z",
+          "date_with_derived_offset": null,
+          "location": {
+            "city": null,
+            "country": null,
+            "state": null,
+            "zipcode": null
+          },
+          "status_code_mapping": {
+            "code": "300",
+            "code_description": "ON PROCESS"
+          }
+        }
+      ]
+    }
+  ],
+  "order_number": "0120132000000949-jne",
+  "published_date": "2020-01-11T12:23:50.15Z",
+  "uid": "0120132000000949-jne-3_65464789",
+  "version": "v2-track-carrier-feed"
+}
+
+
+
+
+
